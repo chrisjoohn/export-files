@@ -1,0 +1,13 @@
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\bin\Debug\write_file.exe.config
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\bin\Debug\write_file.exe
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\bin\Debug\write_file.pdb
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\bin\Debug\write_file.xml
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\obj\Debug\write_file.vbprojResolveAssemblyReference.cache
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\obj\Debug\write_file.Form1.resources
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\obj\Debug\write_file.Resources.resources
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\obj\Debug\write_file.vbproj.GenerateResource.Cache
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\obj\Debug\write_file.exe
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\obj\Debug\write_file.xml
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\write_file\write_file\obj\Debug\write_file.pdb
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\write_file\write_file\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\write_file\write_file\bin\Debug\Newtonsoft.Json.xml
